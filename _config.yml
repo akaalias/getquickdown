@@ -4,8 +4,7 @@
 title: QuickDown – Keyboard-First, Local Markdown Note-Taking
 url: "https://akaalias.github.io/getquickdown"
 baseurl: "/getquickdown"
-google_analytics_key:
-google_maps_javascript_api_key:
+google_analytics_key: "G-X59962H3F1"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
