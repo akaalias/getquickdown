@@ -18,7 +18,7 @@
 #  link: /
 #  new_window: true
 #  highlight: false
-- name: Install QuickDown v2.2
+- name: Get QuickDown v2.2 for macOS
   link: https://github.com/akaalias/quickdown/releases/latest/download/QuickDown.dmg
   new_window: true
   highlight: true
