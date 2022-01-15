@@ -6,19 +6,18 @@ url: "https://akaalias.github.io/getquickdown"
 baseurl: "/getquickdown"
 google_analytics_key:
 google_maps_javascript_api_key:
-disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Keyboard-First, Local Markdown Note-Taking
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Alexis Rondeau
+  email: alexis.rondeau@gmail.com
+
 social:
-  name: Hydra Template
+  name: QuickDown – Keyboard-First, Local Markdown Note-Taking
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://akaalias.github.io/getquickdown
 
 # -----
 # Build

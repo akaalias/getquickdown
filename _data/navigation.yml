@@ -1,24 +1,24 @@
-- name: Pricing
-  link: /pricing/
-  new_window: false
-  highlight: false
-- name: Blog
-  link: /blog/
-  new_window: false
-  highlight: false
-- name: About
-  link: /about/
-  new_window: false
-  highlight: false
-- name: Contact
-  link: /contact/
-  new_window: false
-  highlight: false
-- name: Login
-  link: /
-  new_window: true
-  highlight: false
-- name: Sign Up
-  link: /
+#- name: Pricing
+#  link: /pricing/
+#  new_window: false
+#  highlight: false
+#- name: Blog
+#  link: /blog/
+#  new_window: false
+#  highlight: false
+#- name: About
+#  link: /about/
+#  new_window: false
+#  highlight: false
+#- name: Contact
+#  link: /contact/
+#  new_window: false
+#  highlight: false
+#- name: Login
+#  link: /
+#  new_window: true
+#  highlight: false
+- name: Install QuickDown v2.2
+  link: https://github.com/akaalias/quickdown/releases/latest/download/QuickDown.dmg
   new_window: true
   highlight: true
