@@ -1,6 +1,6 @@
 ---
 title:
 categories:
-author_staff_member:
+author_staff_member: Alexis Rondeau
 date:
 ---

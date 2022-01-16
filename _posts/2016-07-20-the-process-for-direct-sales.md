@@ -1,35 +1,23 @@
 ---
 date: 2020-07-20
-title: The process for direct sales
-categories:
-  - sales
-author_staff_member: anna
+title: Note-Taking Is Personal
+author_staff_member: Alexis Rondeau
 ---
 
-Direct selling is the marketing and selling of products directly to consumers away from a fixed retail location. Peddling is the oldest form of direct selling. Modern direct selling includes sales made through the party plan, one-on-one demonstrations, and other personal contact arrangements as well as internet sales.
+As an [avid Obsidian user](https://publish.obsidian.md/alexisrondeau) and [constant pen-paper note-taker](https://publish.obsidian.md/alexisrondeau/%E2%AD%90%EF%B8%8F+My+Physical+Notebooks+(Photos)), I often want to take a quick markdown note while working
 
-![Checkmate](https://source.unsplash.com/random/1500x1145)
+* _without_ having to keep Obsidian running in the background
+* _without_ having to switch to Obsidian to write
+* _without_ having to leave my keyboard
 
-## Textbook definition
+To me, I want to "catch" notes _all the time_, while I want to connect and remix them in Obsidian only at specific moments.
 
-A textbook definition is: "The direct personal presentation, demonstration, and sale of products and services to consumers, usually in their homes or at their jobs."
+None of the existing [note-taking menu bar apps](https://www.macmenubar.com/note-taking-apps/) had what I needed. So I made my own that fits my needs perfectly.
 
-## How effective is direct selling?
+1. A single global hotkey `⌘-⌥-N` opens the note popover
+2. A simple `⌘-S` saves the note into my Obsidian vault
+3. A simple `Esc` dismisses the popover
 
-Industry representative, the World Federation of Direct Selling Associations (WFDSA), reports that its 59 regional member associations accounted for more than US$183 billion in retail sales in 2014, through the activities of more than 62 million independent sales representatives. The United States Direct Selling Association (DSA) reported that in 2000, 55% of adult Americans had at some time purchased goods or services from a direct selling representative and 20% reported that they were currently(6%) or had been in the past(14%) a direct selling representative.
+Just a way to jot down a markdown note.
 
-![Office](https://source.unsplash.com/random/1500x1146)
-
-According to the WFDSA, consumers benefit from direct selling because of the convenience and service it provides, including personal demonstration and explanation of products, home delivery, and generous satisfaction guarantees. In contrast to franchising, the cost for an individual to start an independent direct selling business is typically very low with little or no required inventory or other cash commitments to begin.
-
-Most direct selling associations around the world require their members to abide by a code of conduct towards a fair partnership both with customers and salesmen...
-
-Most national direct selling associations are represented in the World Federation of Direct Selling Associations (WFDSA).
-
-## How's it different to marketing?
-
-Direct selling is distinct from direct marketing because it is about individual sales agents reaching and dealing directly with clients. Direct marketing is about business organizations seeking a relationship with their customers without going through an agent/consultant or retail outlet.
-
-Direct selling consists of two main business models: single-level marketing, in which a direct seller makes money by buying products from a parent organization and selling them directly to customers, and multi-level marketing (also known as network marketing or person-to-person marketing), in which the direct seller makes money from both direct sales to customers and by sponsoring new direct sellers and earning a commission from their efforts.
-
-![Raspberries](https://source.unsplash.com/random/1500x1147)
+Nothing more, nothing less. 
