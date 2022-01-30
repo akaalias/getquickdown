@@ -10,10 +10,22 @@ h2 {
 	padding: 20px 40px;
 	color: #fff;
 	background: #f55b12;
+	background: linear-gradient(to bottom, #f55b12 0%, #f55b12 80%) no-repeat #f55b12;
 	border-radius: 10px;
-	font-size: larger;
 	box-shadow: 0px 0px 20px 0px rgba(255,255,255,0.30);
 	transition: .2s ease-in-out;
+	display: inline-block;
+
+	h1 {
+		font-weight: normal;
+		font-size: 22px;
+		display: inline-block;
+	}
+
+	h2 {
+		font-size: 18px;
+		display: contents;
+	}
 }
 
 .download:hover {
