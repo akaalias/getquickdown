@@ -47,6 +47,23 @@ h2 {
 	}
 }
 
+.inbetween-cta {
+	padding: 30px 50px;
+	background-color: $brand-color;
+}
+
+.letter {
+	padding-top: 70px !important;
+	padding-bottom: 70px !important;
+	background-color: lightyellow;
+	font-family: "American Typewriter";
+	box-shadow: 1px 1px 20px 0 rgba(0, 0, 0, 0.2);
+
+	p {
+		color: #00007e !important;
+	}
+}
+
 .testimonial {
 	background: #f5f5f5;
 	margin: 0;
