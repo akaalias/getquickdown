@@ -10,6 +10,7 @@
 
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon.png">
+
 	</head>
 	<body>
 		<header>
@@ -42,11 +43,41 @@
 				</p>
 			</div>
 		</footer>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.birds.min.js"></script>
 		<script>
-			document.getElementById("open-nav").onclick = function () {
-				document.body.classList.toggle("nav-open");
-				return false;
-			};
+			VANTA.BIRDS({
+				el: "#visual",
+				mouseControls: true,
+				touchControls: true,
+				gyroControls: false,
+				minHeight: 200.00,
+				minWidth: 200.00,
+				scale: 1.00,
+				scaleMobile: 1.00,
+				backgroundColor: 0x418e,
+				color1: 0x3cff,
+				color2: 0x69ff,
+				birdSize: 0.80,
+				wingSpan: 22.00,
+				speedLimit: 4.00,
+				alignment: 48.00,
+				cohesion: 75.00,
+				quantity: 4.00
+			})
+			// VANTA.HALO({
+			// 	el: "#visual",
+			// 	mouseControls: false,
+			// 	touchControls: false,
+			// 	gyroControls: false,
+			// 	minHeight: 200.00,
+			// 	minWidth: 200.00,
+			// 	baseColor: 0x0,
+			// 	amplitudeFactor: 0.00,
+			// 	xOffset: 0,
+			// 	size: 1.80
+			// })
 		</script>
 	</body>
 </html>
