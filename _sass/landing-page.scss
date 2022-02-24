@@ -12,10 +12,22 @@ h1.headline {
 	}
 }
 
+.features {
+	p {
+		font-weight: normal;
+
+		b {
+			font-weight: bolder;
+			color: #063172;
+		}
+	}
+}
+
 h2.heading {
 	font-size: 38pt;
 	font-weight: bold;
-	letter-spacing: -2px;
+	letter-spacing: -2.5px;
+	color: $brand-color;
 }
 
 .copy {
