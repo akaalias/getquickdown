@@ -2,8 +2,8 @@
 # Site
 
 title: QuickDown – Keyboard-First, Local Markdown Note-Taking
-url: "https://akaalias.github.io/getquickdown"
-baseurl: "/getquickdown"
+url: "https://getquickdown.com/"
+baseurl: ""
 google_analytics_key: "G-X59962H3F1"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
@@ -16,7 +16,7 @@ author:
 social:
   name: QuickDown – Keyboard-First, Local Markdown Note-Taking
   links:
-    - https://akaalias.github.io/getquickdown
+    - https://getquickdown.com
 
 # -----
 # Build
